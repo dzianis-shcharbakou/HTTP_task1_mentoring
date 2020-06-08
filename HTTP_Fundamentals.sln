@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP_Fundamentals", "HTTP_Fundamentals\HTTP_Fundamentals.csproj", "{9E68F069-2D0A-4506-B2F4-6A201CA1898D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTTP_core", "HTTP_core\HTTP_core.csproj", "{2D863E65-765B-4551-8538-658B895FC68F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E68F069-2D0A-4506-B2F4-6A201CA1898D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E68F069-2D0A-4506-B2F4-6A201CA1898D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E68F069-2D0A-4506-B2F4-6A201CA1898D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E68F069-2D0A-4506-B2F4-6A201CA1898D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D863E65-765B-4551-8538-658B895FC68F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D863E65-765B-4551-8538-658B895FC68F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D863E65-765B-4551-8538-658B895FC68F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D863E65-765B-4551-8538-658B895FC68F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5CC43524-39A1-46C0-9FA2-0D34179B6D9B}
+	EndGlobalSection
+EndGlobal
